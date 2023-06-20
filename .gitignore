@@ -1,0 +1,38 @@
+# Fichiers et répertoires générés par le système d'exploitation
+.DS_Store
+Thumbs.db
+./server/node_modules
+# Fichiers de log
+*.log
+
+# Répertoires spécifiques
+/node_modules
+/.venv
+/dist
+
+# Fichiers d'environnement
+.env
+.env.local
+.env.*.local
+
+# Fichiers de build
+/build
+/out
+/.next
+
+# Dépendances de développement
+/devDependencies
+
+# Fichiers de sauvegarde
+*~
+*.swp
+*.bak
+
+# Fichiers de configuration d'éditeur
+.idea/
+.vscode/
+
+# Autres exemples
+# /my_folder/my_file.txt   (Ignorer un fichier spécifique)
+# /my_folder/              (Ignorer un répertoire spécifique)
+
